@@ -1,0 +1,49 @@
+html{
+    height: 100%;
+}
+body{
+    padding: 0;
+    background: #758eb7;
+}
+
+.block{
+    margin-top: 6vw;
+    background: #fff;
+    height: 500px;
+    width: 320px;
+    border-radius: 17px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.5);
+    transition: 0.3s ease-in-out;
+}
+
+.image{
+    padding-top: 15px;
+    height: 35%;
+    width: 50%;
+    border-radius: 50%;
+}
+
+.text{
+    font-family: Inconsolata, sans-serif;
+    font-size: 1.5rem;
+    font-weight: 300;
+}
+
+.text2{
+    font-family: Inconsolata, sans-serif;
+    font-size: 1rem;
+    font-weight: 200;
+    padding-top: 2px;
+}
+
+.line{
+    height: 70px;
+    width: 100%;
+    background: #1e90ff;
+    border-radius: 17px 17px 0px 0px;
+    font-family: Inconsolata;
+    font-size: 30px;
+    color: #fff;
+    text-align: left;
+    line-height: 2;
+}
